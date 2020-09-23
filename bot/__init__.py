@@ -64,7 +64,7 @@ START_OTHER_USERS_TEXT = get_config(
         "This bot connects you directly to the admins of @moviezz_on_demand\n\n\n"
         "You can request your favorite movie just by sending it's Name,Release Year,Language and prefered Quality\n\n\n"
         "ℹ️ Subscribe @moviezz_on_demand if you are😍 using this bot❗️❣️/n/n"
-        "Check your requested stuff here : <a href="https://1.sangwanakshay.workers.dev/0:/CHANNEL%20FOLDER/">📽 Movies On Demand</a>""",disable_web_page_preview=True 
+        "We will try to upload your requsted stuff within 1 Hour (Max time taken- 24Hrs)  
     )
 )
 # check online status of your bot
