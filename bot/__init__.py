@@ -59,26 +59,19 @@ START_COMMAND = get_config("START_COMMAND", "start")
 START_OTHER_USERS_TEXT = get_config(
     "START_OTHER_USERS_TEXT",
     (
-        "Hi. ☺️\n"
+        "Hi.Welcome ☺️\n"
         "Thank you for using me 😬\n\n"
-        "This is an Open Source Project available on "
-        "https://github.com/SpEcHIDe/NoPMsBot\n\n\n"
-        "If you are the owner of this bot, "
-        "and are seeing this message 🤦‍♂️, "
-        "means that you have not set up "
-        "the ENVironment variables properly "
-        "for the bot to function.\n\n\n"
-        "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+        "This bot connects you directly to the admins of @moviezz_on_demand\n\n\n"
+        "You can request your favorite movie just by sending it's Name,Release Year,Language and prefered Quality\n\n\n"
+        "ℹ️ Subscribe @moviezz_on_demand if you are😍 using this bot❗️❣️/n/n"
+        "Check your requested stuff here: <a href="https://1.sangwanakshay.workers.dev/0:/CHANNEL%20FOLDER/">📽 Movies On Demand</a>""", 
     )
 )
 # check online status of your bot
 ONLINE_CHECK_START_TEXT = get_config(
     "ONLINE_CHECK_START_TEXT",
     (
-        "i am online <b>master</b>\n\n"
-        "This is an Open Source Project available on "
-        "https://github.com/SpEcHiDe/NoPMsBot\n\n\n"
-        "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+        "i am online <b>master</b>"
     )
 )
 # IDEKWBYRW
