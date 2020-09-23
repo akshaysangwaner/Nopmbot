@@ -63,7 +63,7 @@ START_OTHER_USERS_TEXT = get_config(
         "Thank you for using me 😬\n\n"
         "This bot connects you directly to the admins of @moviezz_on_demand\n\n\n"
         "You can request your favorite movie just by sending it's Name,Release Year,Language and prefered Quality\n\n\n"
-        "ℹ️ Subscribe @moviezz_on_demand if you are😍 using this bot❗️❣️/n/n"
+        "ℹ️ Subscribe @moviezz_on_demand if you are😍 using this bot❗️❣️\n\n"
         "We will try to upload your requsted stuff within 1 Hour (Max time taken- 24Hrs)"  
     )
 )
