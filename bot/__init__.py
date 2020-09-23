@@ -65,7 +65,7 @@ START_OTHER_USERS_TEXT = get_config(
         "You can request your favorite movie just by sending it's Name,Release Year,Language and prefered Quality\n\n\n"
         "ℹ️ Subscribe @moviezz_on_demand if you are😍 using this bot❗️❣️\n\n"
         "We will try to upload your requsted stuff within 1 Hour (Max time taken- 24Hrs)\n\n"
-        "Check your requested stuff here: <a href=https://t.me/joinchat/AAAAAEN3BL9qWqQpyfmWmw>📽 Movies On Demand</a>"""
+        "Check your requested stuff here: <a href=https://1.sangwanakshay.workers.dev/0:/CHANNEL%20FOLDER/>📽Sangwan Cloud</a>"""
     )
 )
 # check online status of your bot
